@@ -1,3 +1,5 @@
-Code to reproduce the results of "Ornstein-Uhlenbeck Learning in Neuromorphic Systems"
+Code to reproduce the results of "Ornstein-Uhlenbeck Learning in Neuromorphic Systems".
 
-TODO: Add complete citation when published (preprint/entropy)
+TODO: Add complete citation when published (preprint/entropy).
+
+TODO: Make the repository public when the preprint is out.
