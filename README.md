@@ -1,4 +1,4 @@
-Code to reproduce the results of "Ornstein-Uhlenbeck Learning in Neuromorphic Systems".
+Code to reproduce the results of "Ornstein-Uhlenbeck Adaptation as a Mechanism for Learning in Brains and Machines".
 
 TODO: Add complete citation when published (preprint/entropy).
 
